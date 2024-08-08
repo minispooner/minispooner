@@ -1,4 +1,4 @@
-I've been working in security for about 8 years now in large professional environments. Research, exploit, build POC, scale, pop, post x
+I've been working in security since about 2014 in large professional environments. Research, exploit, build POC, scale, pop, post x, reach objectives, readout to execs
 
 I'm interested in building skills and publishing content that can further my career
 
